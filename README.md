@@ -1,4 +1,4 @@
-# CLuster analysis of two-color STORM imaging
+# Cluster analysis of two-color STORM imaging
 
 ## Getting Started
 
