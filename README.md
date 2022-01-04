@@ -1,4 +1,4 @@
-# 2C analysis for RIP1-RIP3
+# Cluster analysis for Single-color STORM imaging
 
 ## Getting Started
 
